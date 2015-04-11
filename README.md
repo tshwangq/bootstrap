@@ -1,6 +1,8 @@
 [Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
 =================
 
+[![Join the chat at https://gitter.im/tshwangq/bootstrap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tshwangq/bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Bootstrap provides simple and flexible HTML, CSS, and Javascript for popular user interface components and interactions. In other words, it's a front-end toolkit for faster, more beautiful web development. It's created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat) at Twitter.
 
 To get started, checkout http://twitter.github.com/bootstrap!
